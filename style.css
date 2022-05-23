@@ -1,0 +1,43 @@
+body {
+  background-color: bisque;
+}
+.maindiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h2 {
+  text-align: center;
+  color: blue;
+}
+.left {
+  margin-top: 15%;
+  margin-right: 20%;
+}
+.right {
+  background-color: gray;
+  margin-top: 15%;
+  margin-right: 5%;
+  height: 250px;
+  width: 400px;
+  border-radius: 10px;
+}
+.input {
+  margin-top: 50px;
+  margin-left: 20%;
+  height: 25px;
+  width: 58%;
+}
+.radio {
+  margin-top: 20px;
+  margin-left: 33%;
+}
+
+.submit {
+  margin-top: 20px;
+  margin-left: 160px;
+  background-color: blue;
+  outline: none;
+  border: none;
+  height: 30px;
+}
